@@ -45,5 +45,6 @@ func main(){
 		fmt.Print("main (main.go) unable to extract data from file: ", err, "Path: ", wareeTPath)
 	}
 	fmt.Print(len(suzlon), len(wareeT), len(wareeE), len(siemens), len(acc), len(indices))
+	// lets go forward tomorrow
 	 
 }
